@@ -1,2 +1,2 @@
 This is a sample file for Oct 23 Git case study.
-
+#New text.
